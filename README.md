@@ -52,7 +52,9 @@ Pull requests are welcome! If you'd like to contribute, please follow these step
 ## 📬 Contact
 For support or collaboration, reach out via:
 - **Email:** ahmedamostafa03@gmail.com
-- **GitHub Issues:** [Open an Issue](https://github.com/MatMan04/youtube-data-extractor/issues)
+- **GitHub Issues:** [Open an Issue](https://github.com/MatMan04/Extract-Transcript
+Public
+/issues)
 
 ---
 
