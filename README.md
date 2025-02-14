@@ -33,6 +33,8 @@ python extract_transcripts.py --video_id YOUR_VIDEO_ID
 Press `Ctrl + C` anytime to interrupt the process without data loss.
 
 ## 📂 Output Formats
+![YouTube Data Extractor](ezgif.com-video-to-gif-converter.gif)
+
 The extracted data is saved in:
 - **CSV (`.csv`)** – For spreadsheet applications
 - **JSON (`.json`)** – For developers & APIs
