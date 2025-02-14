@@ -51,8 +51,8 @@ Pull requests are welcome! If you'd like to contribute, please follow these step
 
 ## 📬 Contact
 For support or collaboration, reach out via:
-- **Email:** your-email@example.com
-- **GitHub Issues:** [Open an Issue](https://github.com/your-username/youtube-data-extractor/issues)
+- **Email:** ahmedamostafa03@gmail.com
+- **GitHub Issues:** [Open an Issue](https://github.com/MatMan04/youtube-data-extractor/issues)
 
 ---
 
