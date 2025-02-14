@@ -1,6 +1,6 @@
 # 📌 YouTube Data Extractor
 
-![YouTube Data Extractor](https://your-image-link.com)
+![YouTube Data Extractor](_5af63e2e-c85f-4c9e-8e8b-7ea0960c7463.jpg)
 
 ## 🎯 Overview
 The **YouTube Data Extractor** is a powerful tool designed to retrieve structured data from YouTube videos and channels using the **official YouTube API**. This tool enables users to extract key information such as **video titles, URLs, comments, and transcripts** efficiently and in compliance with YouTube’s policies.
@@ -52,7 +52,7 @@ Pull requests are welcome! If you'd like to contribute, please follow these step
 ## 📬 Contact
 For support or collaboration, reach out via:
 - **Email:** ahmedamostafa03@gmail.com
-- **GitHub Issues:** [Open an Issue](https://github.com/MatMan04/Extract-Transcript/Public/issues)
+- **GitHub Issues:** [Open an Issue](https://github.com/MatMan04/Extract-Transcript/issues)
 
 ---
 
